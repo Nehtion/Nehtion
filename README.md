@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nehtion
-- 👀 I’m interested in Minecraft
-- 🌱 I’m currently learning Java Script
+- 👀 I’m interested in your mother
+- 🌱 I’m currently learning Phyton,C++,Java
 - 📫 How to reach me deeI#0272 
 
 <!---
